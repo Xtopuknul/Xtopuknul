@@ -1,16 +1,42 @@
-## Hi there 👋
+### About Me
 
-<!--
-**Xtopuknul/Xtopuknul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hi there!**
 
-Here are some ideas to get you started:
+I'm **Artur**, an aspiring web developer passionate about creating websites and exploring the endless possibilities of information technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Current Focus:
+I'm actively learning JavaScript and preparing to step into the world of freelancing.
+
+---
+
+### 💡 My Goal:
+To become a skilled front-end developer and craft engaging, user-friendly interfaces.
+
+---
+
+### 🛠️ Languages & Tools:
+![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+
+**Additional Tools:**
+- VS Code
+- Git & GitHub
+- Responsive Design
+
+---
+
+### 📫 Get in Touch:
+- **Email**: [xto.puknul@gmail.com](mailto:xto.puknul@gmail.com)
+
+---
+
+### 🎸 Fun Facts About Me:
+In my free time, I enjoy:
+- Playing the guitar 🎵
+- Reading books 📚
+- Writing code (yes, even for fun!)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xtopuknul&show_icons=true&theme=radical)
